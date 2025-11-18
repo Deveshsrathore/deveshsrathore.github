@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devesh Singh Rathore | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- HEADER SECTION -->
+    <header>
+        <div class="container">
+            <img src="profile.jpg" alt="Profile Photo" class="profile-img">
+
+            <h1>Devesh Singh Rathore</h1>
+            <h3>Graduate Engineer Trainee – IT & Development (SAP)</h3>
+            <p>HG Infra Engineering Ltd.</p>
+
+            <div class="social-links">
+                <a href="mailto:devesh.2rathore@gmail.com">Email</a>
+                <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
+                <a href="tel:+919795140914">Call</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- ABOUT SECTION -->
+    <section id="about">
+        <h2>About Me</h2>
+        <p>
+            I am a Graduate Engineer Trainee working in IT & Development (SAP) at 
+            <strong>HG Infra Engineering Ltd</strong>.  
+            Currently learning <strong>SAP MM, Ariba, and ABAP</strong>.  
+            Passionate about SAP technologies, data analytics, and building digital solutions 
+            for business processes.  
+            Previously worked as an <strong>IoT Support Engineer</strong> at 
+            <strong>MOBA Mobile Automation (German MNC)</strong>.
+        </p>
+    </section>
+
+    <!-- SKILLS SECTION -->
+    <section id="skills">
+        <h2>Skills</h2>
+
+        <div class="skills-container">
+            <div class="card">
+                <h3>Technical Skills</h3>
+                <ul>
+                    <li>SAP MM</li>
+                    <li>SAP Ariba</li>
+                    <li>Basic ABAP</li>
+                    <li>SQL</li>
+                    <li>HTML, CSS, JavaScript</li>
+                    <li>C Language</li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Software Tools</h3>
+                <ul>
+                    <li>MS Office</li>
+                    <li>Power BI</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- PROJECTS SECTION -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <div class="project-card">
+            <h3>1. Simple Inventory Management System</h3>
+            <p>Developed using HTML, CSS, JavaScript, and Python. Helps manage stock, add/update items, and generate basic reports.</p>
+        </div>
+
+        <div class="project-card">
+            <h3>2. Fuel Theft Detection using Data Analytics</h3>
+            <p>Data-driven solution to detect irregular fuel patterns and generate alert reports.</p>
+        </div>
+    </section>
+
+    <!-- CONTACT SECTION -->
+    <section id="contact">
+        <h2>Contact</h2>
+        <p><strong>Phone:</strong> 9795140914</p>
+        <p><strong>Email:</strong> devesh.2rathore@gmail.com</p>
+        <p><strong>LinkedIn:</strong> Devesh Singh Rathore</p>
+    </section>
+
+    <footer>
+        <p>© 2025 Devesh Singh Rathore | Portfolio</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
