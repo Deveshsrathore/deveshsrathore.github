@@ -17,14 +17,6 @@ header {
     color: white;
 }
 
-.profile-img {
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
-    border: 5px solid white;
-    margin-bottom: 15px;
-}
-
 .social-links a {
     background: white;
     color: #1a73e8;
